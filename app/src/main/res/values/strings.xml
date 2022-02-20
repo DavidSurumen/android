@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IT Group</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="back">back</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="submit">Submit</string>
+    <string name="enter_first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="someone_example_com">someone@example.com</string>
+    <string name="create_a_password">Create a Password:</string>
+    <string name="confirm">Confirm:</string>
+    <string name="email_address_">Email Address:</string>
+    <string name="first_name">first name</string>
+    <string name="last_name_">last name</string>
+    <string name="empty" />
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="enter_login">Enter Login Details</string>
+</resources>
